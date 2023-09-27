@@ -1,6 +1,7 @@
 # Atmospherix
 This Android application is a weather app that provides real-time weather information using the OpenWeatherMap API. The project is built with the technologies XML (frontend) and Koltin (backend). Also, the app is yet in development mode.
-![image](https://github.com/pratik50/Atmospherix/assets/92214381/691b54b2-2421-4aac-8fca-f33b98d3190b)
+![weather app](https://github.com/pratik50/Atmospherix/assets/92214381/a883a2f0-c2b1-4c70-bba0-603c3ac9a95f)
+
 
 ## Requirements
 
